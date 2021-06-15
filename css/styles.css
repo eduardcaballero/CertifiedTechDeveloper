@@ -1,0 +1,28 @@
+body {
+  background-color: #f1f3f4;
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+main {
+  padding: 50px;
+}
+.header {
+  background-color: white;
+  text-align: center;
+  box-shadow: 0px 0px 9px -4px #000000;
+}
+.header > img {
+  max-width: 250px;
+}
+.flex > a {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+}
+.flex > a > p {
+  margin-left: 10px;
+}
