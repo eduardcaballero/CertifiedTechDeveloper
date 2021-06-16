@@ -16,6 +16,9 @@ main {
 .header > img {
   max-width: 250px;
 }
+.header > a > img {
+  max-width: 250px;
+}
 .flex > a {
   display: flex;
   align-items: center;
