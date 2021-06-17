@@ -16,6 +16,13 @@ main {
 .header > img {
   max-width: 250px;
 }
+.header a.back {
+  text-decoration: none;
+  position: absolute;
+  color: #7f62e1;
+  top: 25px;
+  left: 50px;
+}
 .header > a > img {
   max-width: 250px;
 }
