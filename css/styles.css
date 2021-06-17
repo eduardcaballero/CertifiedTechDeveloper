@@ -20,8 +20,8 @@ main {
   text-decoration: none;
   position: absolute;
   color: #7f62e1;
-  top: 25px;
-  left: 50px;
+  top: 1.2em;
+  left: 1.2em;
 }
 .header > a > img {
   max-width: 250px;
