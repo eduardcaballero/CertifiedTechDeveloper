@@ -36,3 +36,16 @@ main {
 .flex > a > p {
   margin-left: 10px;
 }
+.web,
+.file {
+  border-radius: 5px;
+  padding: 2px 5px;
+  font-size: 10px;
+}
+.web {
+  background-color: #7f62e1;
+  color: #fff;
+}
+.file {
+  background-color: #4ce5d0;
+}
