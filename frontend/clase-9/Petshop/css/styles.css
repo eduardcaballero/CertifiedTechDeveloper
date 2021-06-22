@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+.container-nav {
+  display: flex;
+  padding: 5px 50px;
+}
+.left-nav {
+  width: 50%;
+  color: #fff;
+}
+.right-nav {
+  width: 50%;
+  text-align: right;
+  color: #fff;
+}
