@@ -37,7 +37,8 @@ main {
   margin-left: 10px;
 }
 .web,
-.file {
+.file,
+.parcial {
   border-radius: 5px;
   padding: 2px 5px;
   font-size: 10px;
@@ -48,4 +49,11 @@ main {
 }
 .file {
   background-color: #4ce5d0;
+}
+.parcial {
+  background-color: #e2163b;
+  color: #fff;
+}
+.card {
+  margin-bottom: 10px;
 }
