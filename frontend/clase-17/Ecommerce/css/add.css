@@ -82,6 +82,13 @@ button {
   padding: 12px 98px;
   border: none;
   cursor: pointer;
+  transition: transform 0.4s;
+}
+button:hover {
+  background-color: #001d2d;
+  color: #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transform: scale(1.05);
 }
 .add-btn {
   text-align: center;
@@ -94,4 +101,9 @@ hr {
 legend {
   font-weight: 300;
   font-size: 20px;
+}
+input:focus,
+textarea:focus,
+select:focus {
+  border: 3px solid #1cd1b0;
 }
